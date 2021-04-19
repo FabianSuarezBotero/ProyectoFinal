@@ -6,4 +6,4 @@ Editado desde el PC
 
 Editado en VS Code
 
-Editado en Replit
+Editado desde Replit
